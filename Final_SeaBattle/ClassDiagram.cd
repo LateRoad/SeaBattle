@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Board">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="Board::status">
+        <TypeIdentifier>
+          <NewMemberFileName>Board.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAJAAAAiAAAgAAAAAAAAAAAAABACEAIgABACAIAAA=</HashCode>
+      <FileName>Board.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="List&lt;T&gt;">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAAAAAAAgEAAAMAAAABCAAAASAAMAQAACAI=</HashCode>
+      <FileName>CycleList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEQgAAAAABAAAAAAAAAAAAAAAAIgAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAAAAAAAAAACAAAAEAIAAACAACABgAQAQEBg=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ship">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAAAAAAAgAAAAAACAAAQCCAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ship.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistics">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAAAAAAAAIAAAAEAAAAAAAAAABIAAAAYAAEAAAAAAA=</HashCode>
+      <FileName>Statistics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="node&lt;T&gt;">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="node&lt;T&gt;::stat">
+        <TypeIdentifier>
+          <NewMemberFileName>CycleList.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAIAAAA=</HashCode>
+      <FileName>CycleList.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="ConsoleColor">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAnAAQAAQAAIgAAABAAAAAABAAAAAQAAAAACDAAAAA=</HashCode>
+      <FileName>Color.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
